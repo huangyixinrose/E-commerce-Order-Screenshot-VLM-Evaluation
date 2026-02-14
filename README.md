@@ -58,6 +58,7 @@
 安装：
 ```bash
 python3 -m pip install --upgrade "openai>=1.0" pandas openpyxl
+```
 
 ---
 
@@ -79,5 +80,3 @@ python3 -m pip install --upgrade "openai>=1.0" pandas openpyxl
 	•	*_acc：单字段准确率（严格：state 必须一致；若 OK 则 value 必须一致）
 
 更完整的口径与示例见：标注指南.pdf / 项目复盘.pdf
-
-⸻
